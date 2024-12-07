@@ -271,7 +271,7 @@ audio, video {
     display: flex;
     justify-content: center;
     flex-wrap: wrap; /* Ensures wrapping on small screens */
-    gap: 15px; /* Adds space between menu items */
+    gap: 12px; /* Adds space between menu items */
 }
 
 .navbar ul li {
